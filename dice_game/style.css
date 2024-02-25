@@ -1,0 +1,38 @@
+body{
+    background-color: turquoise;
+}
+.img img{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.img, 
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+h1, 
+h2{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: blueviolet;
+}
+
+.container h1{
+    color: brown;
+}
+
+.container h2{
+    color: royalblue;
+}
+
+.btn button{
+    padding: 14px;
+    background-color: tomato;
+    color: white;
+}
